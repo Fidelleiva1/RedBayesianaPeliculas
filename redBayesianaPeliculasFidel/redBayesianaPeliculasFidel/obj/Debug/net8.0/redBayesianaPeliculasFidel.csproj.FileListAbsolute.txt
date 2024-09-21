@@ -1,0 +1,14 @@
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\bin\Debug\net8.0\redBayesianaPeliculasFidel.exe
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\bin\Debug\net8.0\redBayesianaPeliculasFidel.deps.json
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\bin\Debug\net8.0\redBayesianaPeliculasFidel.runtimeconfig.json
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\bin\Debug\net8.0\redBayesianaPeliculasFidel.dll
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\bin\Debug\net8.0\redBayesianaPeliculasFidel.pdb
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.AssemblyInfoInputs.cache
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.AssemblyInfo.cs
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.csproj.CoreCompileInputs.cache
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.dll
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\refint\redBayesianaPeliculasFidel.dll
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.pdb
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\redBayesianaPeliculasFidel.genruntimeconfig.cache
+C:\Users\wmarroquin\source\repos\redBayesianaPeliculasFidel\redBayesianaPeliculasFidel\obj\Debug\net8.0\ref\redBayesianaPeliculasFidel.dll
